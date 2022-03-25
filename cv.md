@@ -2,6 +2,13 @@
 ---
 ## From Economist to Frontend Developer ##
 ---
+
+## My Contact Info: ##
+* __Phone:__ +7 771 525-22-00
+* __GitHub:__[learnforward90](https://github.com/learnforward90)
+* __LinkedIn:__[Alibek_B](https://www.linkedin.com/in/alibek-baidalinov-92840724)
+* __Email:__ <alibek21@gmail.com>
+
 ## About Myself: ##
 ---
 I have been working as an Economist and a Financier since I graduated from the university 9 years ago. Last year I decided to change my career path and try to become a developer because of its multiple opportunities.
