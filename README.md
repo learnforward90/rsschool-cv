@@ -1,1 +1,1 @@
-https://learnforward90.github.io/rsschool-cv/cv
+https://learnforward90.github.io/rsschool-cv/
